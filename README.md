@@ -1,1 +1,1 @@
-# Knowledge-Stealer
+# 시험기간에 만들어본 교수님 지식 강탈기
